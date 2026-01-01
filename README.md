@@ -4,6 +4,10 @@
 
 
 
+Each Module will take 4 months to complete and you must spend 2 months after to work on trading algorithms/projects
+
+
+
 **1.) Foundations of Statistical Learning \& Systematic Trading**
 
 * Statistics and Data Analysis for Financial Engineering
