@@ -1,6 +1,6 @@
 **Roadmap for Books to make an Expert Algorithmic Trader**
 
-**Books under a topic will be read concurrently**
+**Books under a module will be read concurrently**
 
 
 
@@ -8,55 +8,59 @@ Each Module will take 4 months to complete and you must spend 2 months after to 
 
 
 
-**1.) Foundations of Statistical Learning \& Systematic Trading**
+**1.) Foundations of Statistical \& Systematic Trading**
 
-* Statistics and Data Analysis for Financial Engineering
-* Introduction to Statistical Learning
-* Successful Algorithmic Trading
-* The Elements of Quantitative Investing
-
-
-
-You are capable of building and validating simple systematic strategies and could qualify for new-grad junior quantitative or trading-adjacent roles.
+* Statistics and Data Analysis for Financial Engineering by Ruppert
+* Introduction to Statistical Learning by Hastie
+* Successful Algorithmic Trading by Michael-Halls-Moore
+* The Elements of Quantitative Investing by Giuseppe
 
 
 
-**2.) Probabilistic Time Series \& Bayesian Modeling for Trading**
-
-* Applied Time Series Analysis and Forecasting with Python
-* Bayesian Modeling and Computation in Python
-* Advanced Algorithmic Trading
-* Quantitative Portfolio Management
+**Skills I'll gain after completing:** You’ll build a rigorous statistical foundation for financial data, including regression, classification, factor modeling, and proper backtesting discipline. You’ll be able to design, evaluate, and deploy simple but robust systematic strategies with sound data hygiene and risk awareness.
 
 
 
-You can build robust models and understand uncertainty, but you still lack the research discipline required to reliably generate new alpha.
+**2.) Probabilistic Modeling, Time Series \& Portfolio Construction**
+
+* Applied Time Series Analysis and Forecasting with Python by Changquan Huang
+* Bayesian Modeling and Computation in Python by Osvaldo A. Martin
+* Advanced Algorithmic Trading by Michael-Halls-Moore
+* Advanced Portfolio Management by Giuseppe
+
+
+
+**Skills I'll gain after completing:** You’ll master time-series modeling (ARIMA, state-space, volatility models) and Bayesian inference for uncertainty-aware decision making. You’ll be able to translate forecasts into position sizing, portfolio construction, and capital allocation rules that survive regime shifts.
 
 
 
 
 
-**3.) Financial Econometrics \& Research-Grade ML for Trading**
+**3.) Machine Learning \& Modern Quant Portfolio Engineering**
 
-* Analysis of Financial Time Series
-* Machine Learning for Algorithmic Trading
-* Machine Learning in Finance
-* Advances in Financial Machine Learning
-
-
-
-You can function as a competent quantitative researcher within an existing research framework
+* Analysis of Financial Time Series by Ruel S. Tsay
+* Machine Learning for Algorithmic Trading by Jansen
+* Quantitative Portfolio Management in python by Brugière
+* Advances in Financial Machine Learning by Prado
 
 
 
-**4.) Market Microstructure, Liquidity \& Trade Execution**
-
-* An Introduction to Market Microstructure Theory
-* The Science of Algorithmic Trading and Portfolio Management
-* The Evaluation and Optimization of Trading Strategies
-* Advanced Portfolio Management
+**Skills I'll gain after completing:** You’ll learn to apply ML correctly in finance: feature engineering, labeling, cross-validation, meta-labeling, and overfitting control. You’ll be able to construct ML-driven portfolios with robust risk controls, realistic transaction costs, and statistically defensible performance.
 
 
 
-You have strong market intuition and understand how execution and liquidity constraints shape real-world performance.
+**4.) Market Microstructure, Execution \& Strategy Optimization**
+
+* An Introduction to Market Microstructure Theory by Andreas Krause
+* The Science of Algorithmic Trading and Portfolio Management by Kissel
+* The Evaluation and Optimization of Trading Strategies by Robert Pardo
+* Machine Learning in Finance by dixon
+
+
+
+**Skills I'll gain after completing:** You’ll understand how real markets work at the trade-by-trade level, including liquidity, impact, slippage, and execution algorithms. You’ll be able to stress-test, optimize, and deploy strategies in live conditions while avoiding data-snooping and false optimization.
+
+
+
+
 
