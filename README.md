@@ -1,97 +1,149 @@
-**Roadmap for algorithmic trading**
+# Applied Quantitative Finance & Algorithmic Trading
 
-**Books under a module will be read concurrently**
+A structured four-course learning sequence progressing from foundational statistics and machine learning to advanced financial ML and professional-grade quant research practices.
 
+---
 
+## **Course 1 — Foundations of Statistical Learning and Quantitative Trading**
 
-Each Module will take 4 months to complete and you must spend 2 months after to work on trading algorithms/projects
+**Objective**  
+Build core statistical intuition, basic machine learning understanding, and the ability to code and evaluate simple quantitative trading strategies.
 
+**Primary Texts**
+- *Statistics and Data Analysis for Financial Engineering*  
+- *An Introduction to Statistical Learning (ISLP)*  
+- *Quant Trading Strategies with Python*
 
+**Key Topics**
+- Probability, estimation, regression, and inference
+- Bias–variance tradeoff and model validation
+- Supervised learning fundamentals
+- Market mechanics and basic trading rules
+- Coding and backtesting introductory strategies
 
-**1.) Statistical Learning and Quantitative Trading Foundations**
+**Capstone Project**  
+**Single-Asset Strategy Research Notebook**  
+Students design, implement, and evaluate a single-asset trading strategy (e.g., momentum or mean reversion). The project must include:
+- Data acquisition and cleaning
+- Feature construction and exploratory analysis
+- Strategy rules and basic ML enhancement (optional)
+- Backtesting with clear assumptions
+- Performance evaluation and discussion of overfitting risks
 
-* Statistics and Data Analysis for Financial Engineering by Ruppert
-* Introduction to Statistical Learning by Hastie
-* Successful Algorithmic Trading by Michael-Halls-Moore
-* The Elements of Quantitative Investing by Giuseppe
+**Outcome**  
+Students can analyze financial data, implement simple strategies in Python, and understand common sources of overfitting and statistical error.
 
+---
 
+## **Course 2 — Algorithmic Trading Systems and Machine Learning Workflows**
 
-**Skills I'll gain after completing:** You will be able to design, test, and evaluate basic systematic trading strategies using sound statistical reasoning, avoiding common pitfalls such as overfitting and data leakage. You will also understand how predictive models, portfolio construction, and risk considerations fit together in a practical quantitative trading workflow.
+**Objective**  
+Transition from toy strategies to realistic algorithmic trading systems with robust backtesting, execution awareness, and ML-driven workflows.
 
+**Primary Texts**
+- *Successful Algorithmic Trading*  
+- *Advanced Algorithmic Trading*  
+- *Machine Learning for Algorithmic Trading*
 
+**Key Topics**
+- Backtesting bias, transaction costs, and slippage
+- Walk-forward validation and time-series cross-validation
+- Feature engineering for financial data
+- Portfolio construction and evaluation
+- Practical ML pipelines for trading systems
 
-**Project:** Build a Research-Grade Backtesting Engine and Evaluate Simple Strategies Correctly
+**Capstone Project**  
+**Multi-Asset ML Trading System**  
+Students build an end-to-end ML trading pipeline across multiple assets. Requirements include:
+- Feature engineering across assets and time
+- Model training with time-series-aware validation
+- Portfolio construction logic
+- Transaction cost and slippage modeling
+- Walk-forward backtesting and performance attribution
 
-* Design and implement a vectorized backtesting framework from scratch that supports daily equities or ETF data, transaction costs, position sizing, and proper performance evaluation, then use it to compare several simple systematic strategies (momentum, mean reversion, and volatility-scaled trend following).
+**Outcome**  
+Students can design, test, and evaluate algorithmic strategies with realistic assumptions and end-to-end ML workflows.
 
+---
 
+## **Course 3 — Financial Time Series, Portfolio Construction, and Risk Modeling**
 
-**2.) Time Series Modeling and Probabilistic Strategy Design**
+**Objective**  
+Develop a deep understanding of financial time series behavior, volatility dynamics, and portfolio-level risk management.
 
-* Applied Time Series Analysis and Forecasting with Python by Changquan Huang
-* Bayesian Modeling and Computation in Python by Osvaldo A. Martin
-* Advanced Algorithmic Trading by Michael-Halls-Moore
-* Machine Learning in Finance by Dixon
+**Primary Texts**
+- *Analysis of Financial Time Series*  
+- *The Elements of Quantitative Investing*
 
+**Key Topics**
+- Stationarity, ARMA, GARCH, and regime models
+- Volatility modeling and diagnostics
+- Portfolio optimization under constraints
+- Estimation error, turnover, and transaction costs
+- Risk metrics beyond Sharpe (drawdowns, tail risk)
 
+**Capstone Project**  
+**Risk-Aware Portfolio Strategy**  
+Students construct and evaluate a portfolio strategy emphasizing risk control. The project must include:
+- Time-series modeling of returns and volatility
+- Portfolio optimization under constraints
+- Explicit turnover and transaction cost controls
+- Stress testing and drawdown analysis
+- Comparison against naive benchmarks
 
-**Project:** Walk-Forward Time-Series Strategy with Bayesian Uncertainty and Regime Sensitivity
+**Outcome**  
+Students can model asset dynamics, construct portfolios robustly, and manage risk at the system level.
 
-* Develop a time-series-based trading strategy that explicitly models uncertainty(Dynamic Position sizing) using Bayesian methods (e.g., Bayesian regression or volatility estimation) and evaluate it using strict walk-forward validation across multiple market regimes.
+---
 
+## **Course 4 — Advanced Financial Machine Learning and Quantitative Research Methods**
 
+**Objective**  
+Master advanced ML theory and learn research practices that prevent false discoveries in financial ML.
 
-**Skills I'll gain after completing:** You will be able to model financial time series under uncertainty, apply Bayesian methods to stabilize estimates and quantify risk, and engineer strategies that remain robust under changing market conditions. You will also be capable of running disciplined walk-forward experiments and translating research models into repeatable, production-ready trading systems.
+**Primary Texts**
+- *The Elements of Statistical Learning (ESL)*  
+- *Advances in Financial Machine Learning*
 
+**Key Topics**
+- High-dimensional ML and regularization
+- Trees, ensembles, and nonlinear methods
+- Financial labeling and meta-labeling
+- Purged and embargoed cross-validation
+- Research hygiene and overfitting control
 
+**Capstone Project**  
+**Research-Grade Alpha Discovery Study**  
+Students conduct a full alpha research study with strict research hygiene:
+- Hypothesis formulation and economic rationale
+- Feature and label design
+- Purged/embargoed cross-validation
+- Statistical significance and robustness testing
+- Clear documentation of assumptions and failure modes
 
+**Outcome**  
+Students can critically evaluate quant research, design scalable ML experiments, and apply advanced methods responsibly in financial markets.
 
+---
 
-**3.) Advanced Financial Machine Learning \& Decision Systems**
+## **Final Program Capstone — End-to-End Quantitative Trading System**
 
-* Analysis of Financial Time Series by Ruel S. Tsay
-* Machine Learning for Algorithmic Trading by Jansen
-* Advances in Financial Machine Learning by Prado
-* Foundations of Reinforcement Learning with Applications in Finance by Ashwin Rao
+**Objective**  
+Integrate all prior coursework into a single, coherent quantitative trading system.
 
+**Capstone Description**  
+Students design, document, and evaluate a complete systematic trading strategy, including:
+- Data ingestion and preprocessing
+- Feature engineering and model selection
+- Signal generation and portfolio construction
+- Transaction cost and risk modeling
+- Walk-forward and stress-tested backtesting
+- Performance attribution and post-mortem analysis
 
+**Deliverables**
+- Fully reproducible Python research repository
+- Research report detailing methodology, results, and limitations
+- Final presentation defending design decisions and risk controls
 
-**Project:** Financial Machine Learning Strategy with Leakage-Safe Validation and Meta-Labeling
-
-* Build a machine-learning-driven trading strategy using financial ML techniques (labeling, feature engineering, and meta-labeling) and validate it using purged cross-validation and realistic execution assumptions, then stress-test it across regime changes.
-
-
-
-**Skills I'll gain after completing:** You will be able to apply advanced machine learning and reinforcement learning methods to trading problems while rigorously controlling for bias, non-stationarity, and execution effects. You will understand how to validate complex strategies in realistic market settings and distinguish genuinely robust signals from statistically convincing but economically meaningless results.
-
-
-
-**4.) Final Capstone (4 Months):** Regime-Aware Capital Allocation System
-
-
-
-**Goal:** Build and validate a system that reallocates capital across a fixed asset universe by inferring market regimes online and weighting existing signals probabilistically under strict, leakage-safe evaluation.
-
-
-
-**What You Must Build**
-
-
-
-**1. Regime Inference (Online, Causal):** Infer latent market regimes from time-series features such as volatility, trend strength, and correlations using unsupervised or Bayesian methods. All regime detection must be causal and operate without future information.
-
-
-
-**2. Probabilistic Signal Weighting:** Use a small, fixed set of predefined trading signals and estimate their regime-conditional effectiveness. Signals must be combined using confidence-weighted exposures rather than binary trade decisions.
-
-
-
-**3. Capital Allocation and Risk Control:** Translate probabilistic signal confidence into portfolio weights using volatility targeting, exposure limits, and drawdown-based throttling to control risk dynamically.
-
-
-
-**4. Robust Validation:** Validate the full system using walk-forward testing, regime-conditioned performance analysis, and ablation studies comparing results with and without regime inference and probabilistic weighting.
-
-
-
+**Completion Outcome**  
+Graduates demonstrate the ability to design, validate, and critique professional-grade quantitative trading systems with an emphasis on robustness and realism.
