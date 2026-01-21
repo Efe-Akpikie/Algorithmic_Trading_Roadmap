@@ -104,6 +104,7 @@ Master advanced ML theory and learn research practices that prevent false discov
 **Primary Texts**
 - *The Elements of Statistical Learning (ESL) by by Jerome Friedman, Trevor Hastie and Robert Tibshirani*  
 - *Advances in Financial Machine Learning by by Marcos Lopez de Prado*
+- *Machine Learning in Finance: from theory to practice by Igor Halperin, Matthew Dixon, and Paul A. Bilokon*
 
 **Key Topics**
 - High-dimensional ML and regularization
