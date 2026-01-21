@@ -4,8 +4,8 @@ A structured four-course learning sequence progressing from foundational statist
 
 ---
 
-## **Course 1 — Foundations of Statistical Learning and Quantitative Trading**
-
+## **Course 1 — Foundations of Statistical Learning and Quantitative Trading - 5 months**
+<!-- 5 months as ISLP and SDAFE has many labs + end of unit questions -->
 **Objective**  
 Build core statistical intuition, basic machine learning understanding, and the ability to code and evaluate simple quantitative trading strategies.
 
@@ -35,8 +35,10 @@ Students can analyze financial data, implement simple strategies in Python, and 
 
 ---
 
-## **Course 2 — Algorithmic Trading Systems and Machine Learning Workflows**
-
+## **Course 2 — Algorithmic Trading Systems and Machine Learning Workflows - 4 months**
+<!-- 4 months as course 1 covers most if not all of theoretical math/stats knowledge needed and there are no labs/questions.
+The first book will take me 1 week to read: very low prerequisites( could've been in course 1 honestly). 2nd book will be read in parallel with the 3rd book and should take me 3-3.5 months to read. I'll start working on the project as soon as course starts as course 1 gives me a decent background to start .
+-->
 **Objective**  
 Transition from toy strategies to realistic algorithmic trading systems with robust backtesting, execution awareness, and ML-driven workflows.
 
@@ -66,8 +68,8 @@ Students can design, test, and evaluate algorithmic strategies with realistic as
 
 ---
 
-## **Course 3 — Financial Time Series, Portfolio Construction, and Risk Modeling**
-
+## **Course 3 — Financial Time Series, Portfolio Construction, and Risk Modeling - 6 months**
+<!-- All books in this course are grad level and contain exercises for every chapter(except Paleologo's Book which only has exercises for some chapters). I'll start working on the project as soon as course starts as course 1 gives me a decent background to start. -->
 **Objective**  
 Develop a deep understanding of financial time series behavior, volatility dynamics, and portfolio-level risk management.
 
@@ -97,11 +99,11 @@ Students can model asset dynamics, construct portfolios robustly, and manage ris
 
 ---
 
-## **Course 4 — Advanced Financial Machine Learning and Quantitative Research Methods**
+## **Course 4 — Advanced Financial Machine Learning and Quantitative Research Methods - 6 months**
 
 **Objective**  
 Master advanced ML theory and learn research practices that prevent false discoveries in financial ML.
-
+<!-- All books in this course are grad level and contain exercises for every chapter. I'll start working on the project as soon as course starts as course 1 and 2 gives me a very strong background to start(the project for this course can be done after course 2. -->
 **Primary Texts**
 - *The Elements of Statistical Learning (ESL) by by Jerome Friedman, Trevor Hastie and Robert Tibshirani*  
 - *Advances in Financial Machine Learning by by Marcos Lopez de Prado*
@@ -128,8 +130,8 @@ Students can critically evaluate quant research, design scalable ML experiments,
 
 ---
 
-## **Final Program Capstone — End-to-End Quantitative Trading System**
-
+## **Final Program Capstone — End-to-End Quantitative Trading System - 3 months**
+<!-- 3 months seems realistic -->
 **Objective**  
 Integrate all prior coursework into a single, coherent quantitative trading system.
 
