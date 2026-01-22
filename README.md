@@ -117,7 +117,7 @@ Shift from signal-centric thinking to **capital allocation and risk control**.
 ### Core Texts
 1. *An Introduction to Market Microstructure Theory* — Andreas Krause  
 2. *Financial Markets Theory: Equilibrium, Efficiency and Information* — Barucci & Fontana  
-3. *The Elements of Quantitative Investing* — Paleologo (advanced sections)
+3. *Advances in Financial Machine Learning* — Marcos López de Prado 
 
 ### Focus
 - Price formation mechanisms
@@ -146,7 +146,7 @@ Ability to **reject strategies on economic grounds before modeling them**.
 
 ### Core Texts
 1. *The Elements of Statistical Learning* — Friedman, Hastie, Tibshirani  
-2. *Advances in Financial Machine Learning* — Marcos López de Prado  
+2. *Foundations of Reinforcement Learning with Applications in Finance* — Ashwin Rao, Tikhon Jelvis  
 3. *Machine Learning in Finance: From Theory to Practice* — Halperin, Dixon, Bilokon  
 
 ### Focus
