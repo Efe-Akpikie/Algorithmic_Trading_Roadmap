@@ -46,6 +46,7 @@ Transition from toy strategies to realistic algorithmic trading systems with rob
 - *Successful Algorithmic Trading by Michael L. Halls-Moore* 
 - *Advanced Algorithmic Trading by Michael L. Halls-Moore*  
 - *Machine Learning for Algorithmic Trading by Stefan Jansen*
+- *An Introduction to Market Microstructure Theory by Andreas Krause*
 
 **Key Topics**
 - Backtesting bias, transaction costs, and slippage
@@ -77,6 +78,7 @@ Develop a deep understanding of financial time series behavior, volatility dynam
 - *Analysis of Financial Time Series by Ruey S. Tsay*  
 - *The Elements of Quantitative Investing by Giuseppe A. Paleologo*
 - *Portfolio Optimization: Theory and Application by Daniel P. Palomar*
+- *Financial Markets Theory: Equilibrium, Efficiency and Information by Emilio Barucci and Claudio Fontana*
 
 **Key Topics**
 - Stationarity, ARMA, GARCH, and regime models
@@ -108,6 +110,7 @@ Master advanced ML theory and learn research practices that prevent false discov
 - *The Elements of Statistical Learning (ESL) by by Jerome Friedman, Trevor Hastie and Robert Tibshirani*  
 - *Advances in Financial Machine Learning by by Marcos Lopez de Prado*
 - *Machine Learning in Finance: from theory to practice by Igor Halperin, Matthew Dixon, and Paul A. Bilokon*
+- *Foundations of Reinforcement Learning with Applications in Finance by Ashwin Rao and Tikhon Jelvis*
 
 **Key Topics**
 - High-dimensional ML and regularization
