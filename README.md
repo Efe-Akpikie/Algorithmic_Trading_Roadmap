@@ -5,9 +5,9 @@
 
 ## Program Philosophy
 
-This four-course sequence is designed as a self study guide for students interested in working as a buy side quantitative trader/developer/researcher. The first two course covers everything you need to know before applying for junior to mid level quantitative trader/developer/researcher at buy-side firms or to become an algorithmic trader. The last two course are geared towards quantitative research(writing papers, reading papers, doing novel research). 
+This four-course sequence is designed as a self-study guide for students aspiring to work in quantitative finance or trade systematically. Upon completion, you will possess the statistical rigor to validate trading ideas without self-deception, the engineering skills to build production-grade systems, and the ability to conduct high-quality research in quantitative finance.
 
-**Prerequisites**: Linear Algebra, Probability and Statistics up to a level that has covered common probability distributions and basic hypothesis testing, multivariable calculus, experience with writing code in python/C/C++, and object oriented programming.
+**Prerequisites**: Linear algebra, common probability distributions, basic hypothesis testing, multivariable calculus, proficiency in Python or R and C, familiarity with object-oriented programming.
 
 The curriculum follows a deliberate progression:
 
@@ -111,15 +111,13 @@ Understanding **how system design, execution costs, and lookahead bias invalidat
 - *Financial Markets Theory* – Barucci & Fontana  
 
 ### Scope
-- Characteristics of financial returns (stylized facts)
+- Equilibrium-based asset pricing and information efficiency in financial markets.
 - ARMA, GARCH, and volatility modeling
-- Continuous-time models and stochastic processes
 - Heavy-tailed distributions and extreme value theory
 - Modern portfolio theory and mean-variance optimization
 - Alternative risk measures (CVaR, drawdown, semivariance)
 - Risk parity and graph-based portfolio construction
 - Robust portfolio optimization under estimation error
-- Cointegration and pairs trading strategies
 
 ### Course Capstone – Research + Implementation
 **Title:**  
