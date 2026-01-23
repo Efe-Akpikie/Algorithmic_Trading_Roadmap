@@ -5,7 +5,9 @@
 
 ## Program Philosophy
 
-This four-course sequence is designed to train **professional-grade quantitative researchers and system builders**, not retail traders.
+This four-course sequence is designed as a self study guide for students interested in working as a buy side quantitative trader/developer/researcher. The first two course covers everything you need to know before applying for junior to mid level quantitative trader/developer/researcher at buy-side firms or to become an algorithmic trader. The last two course are geared towards quantitative research(writing papers, reading papers, doing novel research). 
+
+**Prerequisites**: Linear Algebra, Probability and Statistics up to a level that has covered the basic probability distributions(binomial,poisson,geometric, normal)+ some hypothesis testing, multivariable calculus, experience with writing code in python/C/C++, and object oriented programming.
 
 The curriculum follows a deliberate progression:
 
