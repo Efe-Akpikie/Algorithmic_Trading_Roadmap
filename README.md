@@ -41,7 +41,7 @@ Design, test, and statistically validate a set of predictive signals (e.g., mome
 - *Advanced Algorithmic Trading* — Michael Halls-Moore  
 - *An Introduction to Market Microstructure Theory* — Andreas Krause  
 - *Testing and Tuning Market Trading Systems: Algorithms in C++* — Timothy Masters  
-- *An Introduction to Mathematical Finance with Applications* — Arlie O. Petters  
+- *Optimization Methods in Finance* — Gerard Cornuejols  
 
 **Focus**
 - Market microstructure and price formation  
