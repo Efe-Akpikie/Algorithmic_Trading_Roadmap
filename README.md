@@ -1,9 +1,10 @@
 # Quantitative Finance & Systematic Trading  
 ## A Four-Course Research-to-Production Sequence
 
-This sequence is designed to take a learner from **statistical foundations** through **market mechanics**, **portfolio construction**, and finally **institutional-grade financial machine learning**, ending with a full end-to-end capstone. The emphasis is on **research discipline, robustness, and implementation realism**.
+**Prerequisites:**  Linear algebra, common probability distributions, basic hypothesis testing, multivariable calculus, proficiency in Python/R, familiarity with object-oriented programming.
 
-Prerequisites: Linear algebra, common probability distributions, basic hypothesis testing, multivariable calculus, proficiency in Python/R, familiarity with object-oriented programming.
+This sequence is designed to take a learner from **statistical foundations** through **market mechanics**, **portfolio construction**, and finally **institutional-grade financial machine learning**, ending with a full end-to-end capstone. The emphasis is on **research discipline, robustness, and implementation realism**, not retail-style signal chasing.
+
 ---
 
 ## Course 1: Statistical Foundations for Quantitative Trading
